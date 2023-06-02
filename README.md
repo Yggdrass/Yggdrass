@@ -3,7 +3,7 @@
 
 ### ***Front-End Developer | Designer***
 
-img("")
+![My Image](/assets/icons/icons8-html.png)
 
 
 
