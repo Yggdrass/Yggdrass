@@ -12,7 +12,7 @@
 
 ### 🧰 Languages & Tools
 
-<img align="left" alt="HTML" widt"30px" style"padding-right:10px;" src="![My Image](/assets/icons/icons8-html.png)"/>
+<img align="left" alt="HTML" widt"30px" style"padding-right:10px;" src="[![My Image](/assets/icons/icons8-html.png)](https://icons8.com/icon/20909/html-5)"/>
 <img align="left" alt="Javascript" widt"30px" style"padding-right:10px;" src="/assets/icons/icons8-javascript.png"/>
 <img align="left" alt="CSS" widt"30px" style"padding-right:10px;" src="./assets/icons/icons8-css.png"/>
 <img align="left" alt="SASS" widt"30px" style"padding-right:10px;" src=""/>
