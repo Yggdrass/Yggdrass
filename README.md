@@ -9,20 +9,23 @@
 
 
 
+---
 
 ### 🧰 Languages & Tools
 
 ![My Image](/assets/icons/icons8-html.png "HTML")
-![My Image](/assets/icons/icons8-css.png)
-![My Image](/assets/icons/icons8-javascript.png)
-![My Image](/assets/icons/icons8-node-js.png)
-![My Image](/assets/icons/icons8-bootstrap.png)
-![My Image](/assets/icons/icons8-adobe-xd.png)
-![My Image](/assets/icons/icons8-figma.png)
-![My Image](/assets/icons/icons8-react-native.png)
-![My Image](/assets/icons/icons8-github.png)
-![My Image](/assets/icons/icons8-netlify.png)
-![My Image](/assets/icons/icons8-visual-studio-code.png)
+![My Image](/assets/icons/icons8-css.png "CSS")
+![My Image](/assets/icons/icons8-javascript.png "Javascript")
+![My Image](/assets/icons/icons8-node-js.png "Node JS")
+![My Image](/assets/icons/icons8-bootstrap.png "Bootstrap")
+![My Image](/assets/icons/icons8-adobe-xd.png "Adobe XD")
+![My Image](/assets/icons/icons8-figma.png "Figma")
+![My Image](/assets/icons/icons8-react-native.png "React")
+![My Image](/assets/icons/icons8-github.png "GitHub")
+![My Image](/assets/icons/icons8-netlify.png "Netlify")
+![My Image](/assets/icons/icons8-visual-studio-code.png "Visual Studio Code")
+
+---
 
 
 
