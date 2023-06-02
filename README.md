@@ -12,7 +12,7 @@
 
 ### 🧰 Languages & Tools
 
-![My Image](/assets/icons/icons8-html.png)
+![My Image](/assets/icons/icons8-html.png "HTML")
 ![My Image](/assets/icons/icons8-css.png)
 ![My Image](/assets/icons/icons8-javascript.png)
 ![My Image](/assets/icons/icons8-node-js.png)
@@ -22,7 +22,7 @@
 ![My Image](/assets/icons/icons8-react-native.png)
 ![My Image](/assets/icons/icons8-github.png)
 ![My Image](/assets/icons/icons8-netlify.png)
-![My Image](/assets/icons/icons8-vuisual-studio-code.png)
+![My Image](/assets/icons/icons8-visual-studio-code.png)
 
 
 
