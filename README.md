@@ -3,6 +3,12 @@
 
 ### ***Front-End Developer | Designer***
 
+My name is Audun Roald. I am 41 years old and have previously worked as a kindergarden teacher and educational leader in a couple of kindergardens since 2011. Before that I studied archeology, history and early childhood development in Trondheim from 2003 to 2011.
+In february 2020 I got exhausted from work and went on sick leave for a while. After almost a year of this I started to study Front End development at Noroff, with online classes and frm home. So from 2021 until 2023 I have studied coding and web design.
+
+My energy levels have been up and down since I still have to be careful not to overwork myself again. So the projects have been of various quality, but I am proud of all that I have created. I had no knowledge of coding before I started, so my learning cureve have been steep. I'm a perfectionist and therefore I want to continuosly better myself and learn. So I'm sort of proud of what I have created, but everytime I go back to view the projects over, I see that I can improve the design and coding. So I can both be proud of what I have created and see that I am learning.
+
+
 
 
 
@@ -55,10 +61,14 @@ Also the names can either have camelCase ("loginFunction.js") or underscores ("l
 **E2E tests :** Testing functionality is best done with real people testing the app in real time. But it can be a good idea to do E2E testing before it is sent to QA to test. This way we can ensure that everything is working as it should be before real testing begins.
 
 
+- **FOLDER STRUCTURE** :
+
+I like to keep the folders and files as neat and tidy as possible, in order for the project to be easily readable and understandable.
 
 
-### HTML
+- **REACT** :
+
+In react I create a structure that is split into several main folders, like pages, CSS, components, assets, fonts etc. If there are several types of the same categories like for instance containers, I put them in the same css file called containers. This makes it easier to find all of them. If there are just a few containing to a single component or page, then I create a css-file of the same name and place it in the same folder as the jsx-file.
 
 
 
-### CSS
